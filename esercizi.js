@@ -74,8 +74,9 @@ console.log('sono diversi', total)*/
 
 /*EXTRA*/
 
-/*let name1='john'
+let name1='john'
 let name2='John'
 name2=name2.toLowerCase()
+name1=name1.toLowerCase()
 let total=name1===name2
-console.log(total)*/
+console.log(total)
